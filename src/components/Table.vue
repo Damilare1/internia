@@ -65,10 +65,10 @@
 </template>
 
 <script>
-import LeadPencilIcon from "vue-material-design-icons/LeadPencil.vue";
-import TrashCanOutlineIcon from "vue-material-design-icons/TrashCanOutline.vue";
-import ArrowUpIcon from "vue-material-design-icons/ArrowUp.vue";
-import ArrowDownIcon from "vue-material-design-icons/ArrowDown.vue";
+import LeadPencilIcon from "vue-material-design-icons/LeadPencil";
+import TrashCanOutlineIcon from "vue-material-design-icons/TrashCanOutline";
+import ArrowUpIcon from "vue-material-design-icons/ArrowUp";
+import ArrowDownIcon from "vue-material-design-icons/ArrowDown";
 
 export default {
   name: "Table",
