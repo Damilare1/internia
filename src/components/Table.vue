@@ -171,6 +171,7 @@ table {
 
         &:nth-of-type(2) {
           font-size: 1.2em;
+          margin-top: 0.2em;
           font-weight: 500;
           color: #ccd2d7;
         }
