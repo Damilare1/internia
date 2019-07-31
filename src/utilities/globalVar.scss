@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Varela+Round&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+$i: 1;
+$divColors: (rgb(66, 182, 228), rgb(13, 69, 158),rgb(61, 141, 61));
+ul{
+  list-style-type: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-around;
+  margin:0;
+  padding:0;
+}
