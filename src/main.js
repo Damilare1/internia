@@ -9,7 +9,7 @@ Vue.config.productionTip = false;
 const base = axios.create({
   baseURL: "https://api.github.com/user",
   headers: {
-    Authorization: "token 9db183b515adfe5ce029ed421e1ac8d5ad9f4b23"
+    Authorization: process.env.VUE_APP_Token
   }
 });
 Vue.prototype.$http = base;
