@@ -52,8 +52,8 @@
 </template>
 <script>
 // @ is an alias to /src
-import BellIcon from "vue-material-design-icons/Bell.vue";
-import EmailOutlineIcon from "vue-material-design-icons/EmailOutline.vue";
+import BellIcon from "vue-material-design-icons/Bell";
+import EmailOutlineIcon from "vue-material-design-icons/EmailOutline";
 
 export default {
   name: "app",
